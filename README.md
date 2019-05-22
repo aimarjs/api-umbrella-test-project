@@ -1,5 +1,10 @@
 # API Umbrella test project
 
+You need docker installed in your machine
+```
+brew install docker
+```
+
 ### run api umbrella
 ```
 bash run-umbrella.sh
