@@ -5,6 +5,11 @@ You need docker installed in your machine
 brew install docker
 ```
 
+### create docker network
+```
+docker network create api-gateway
+```
+
 ### run api umbrella
 ```
 bash run-umbrella.sh
