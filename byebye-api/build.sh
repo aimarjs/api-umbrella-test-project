@@ -1,5 +1,3 @@
 #/bin/bash
 
-projectName=$(cat package.json | jq -r '.name')
-
-docker build -t $projectName:latest .
+docker build -t byebye-api:latest .
