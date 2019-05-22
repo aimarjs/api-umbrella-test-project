@@ -35,5 +35,5 @@ https://localhost/signup/
  - create a api token
 
 ### access API's
-https://localhost/hello/?api_key={YOUR_API_TOKEN}
-https://localhost/bye/?api_key={YOUR_API_TOKEN}
+Hello-api > https://localhost/hello/?api_key={YOUR_API_TOKEN}
+Byebye-api > https://localhost/bye/?api_key={YOUR_API_TOKEN}
